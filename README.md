@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un desarrollador web FrontEnd de 20 años, apasionado por el diseño y la creación de experiencias interactivas. Soy de Argentina y, además de mis habilidades en FrontEnd, tengo conocimientos básicos en desarrollo Backend. Me encanta aprender cosas nuevas y mejorar constantemente mis habilidades en el mundo de la programación. Estoy siempre en busca de proyectos interesantes y desafiantes que me permitan seguir creciendo como desarrollador.
+Hola! soy Desarrollador Frontend con experiencia en React, Astro y Tailwind, enfocado en crear interfaces rápidas, escalables y orientadas a producto. También trabajo integrando backend con PHP/MySQL y despliegues en Vercel/Firebase. Me gusta construir soluciones completas end-to-end y optimizar rendimiento y experiencia de usuario.
 
 
 ## 🌐 Socials:
